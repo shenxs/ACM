@@ -18,7 +18,7 @@ int main()
 		    a.push_back(i);
 			i++;
 		}
-		b.push_back(a[m-1]);	
+		b.push_back(a[m-1]);
 		int c=2*m-1;
 		int z=2;
 		int g=n;
@@ -62,6 +62,6 @@ int main()
 			if(u!=e) cout<<" ";
 		}
 		cout<<endl;
-	}		
+	}
 	return 0;
 }

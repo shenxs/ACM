@@ -1,7 +1,9 @@
 #include <iostream>
-using namespace std;
+#include <string>
+#include <vector>
 int main()
 {
+	vector<int> a;
     cout << "Hello world!" << endl;
     return 0;
 }

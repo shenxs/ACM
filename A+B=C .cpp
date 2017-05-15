@@ -9,7 +9,7 @@ int main()
 			if (c%2==0)cout<<c/2<<" "<<c/2<<endl;
 			else cout<<c/2<<" "<<c/2+1<<endl;
 		}
-		else 
+        else
 		{
 			if (c%2==0)cout<<c/2<<" "<<c/2<<endl;
 			else cout<<c/2-1<<" "<<c/2<<endl;
