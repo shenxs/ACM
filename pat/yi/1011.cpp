@@ -15,7 +15,7 @@ int main()
   cin>>t;
   int i=1;
   while(i<=t){
-    long a,b,c;
+    long long a,b,c;
     cin>>a>>b>>c;
     if(a+b>c){
       cout<<"Case #"<<i<<": true"<<endl;
