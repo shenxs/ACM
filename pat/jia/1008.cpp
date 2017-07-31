@@ -23,9 +23,10 @@ int foo(int s,int e){
 int main()
 {
   int current=0;
+  string str;
+
   int time=0;
   int cases=0;
-
   cin>>cases;
   for (int i=0; i<cases; ++i) {
     int temp;
