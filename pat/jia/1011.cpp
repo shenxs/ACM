@@ -18,7 +18,6 @@ int main()
   double max[3]={0};
   double buf[3];
   char re[3]={'W','T','L'};
-
   int i=3;
   while(i--){
     int index=0;
