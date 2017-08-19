@@ -9,7 +9,6 @@
        #t
        #f))
 
-
 (define (todayfile? p)
   (let ([today  (find-seconds 0 0 0
                               (date-day (current-date))
