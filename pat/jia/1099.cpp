@@ -38,7 +38,6 @@ void travall(int i){
 
 int main()
 {
-
   cin>>N;
   tree.resize(N);
   arr.resize(N);
@@ -71,6 +70,5 @@ int main()
       que.push(tree[front].right);
     }
   }
-
   return 0;
 }
