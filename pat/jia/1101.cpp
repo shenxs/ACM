@@ -15,7 +15,6 @@ int main()
     b.push_back(temp);
   }
   sort(a.begin(), a.end());
-
   vector<int> v;
   int max=0;
   for (int i=0; i<n; ++i) {
@@ -33,7 +32,6 @@ int main()
       cout<<" "<<i;
   }
   cout<<endl;
-
 
   return 0;
 }
