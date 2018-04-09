@@ -107,5 +107,7 @@ int main()
 
   }
 
+  delete  [] question;
+  delete  [] score;
   return 0;
 }
