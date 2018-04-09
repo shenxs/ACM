@@ -1,8 +1,9 @@
-3 4 
-3 4 2 a c
-2 5 1 b
-5 3 2 b c
-1 5 4 a b d e
-(2 a c) (3 b d e) (2 a c) (3 a b e)
-(2 a c) (1 b) (2 a b) (4 a b d e)
-(2 b d) (1 e) (1 c) (4 a b c d)
+8
+A-T B-F C-F D-F
+C-T B-F A-F D-F
+A-F D-F C-F B-T
+B-T A-F C-F D-F
+B-F D-T A-F C-F
+A-T C-F B-F D-F
+D-T B-F C-F A-F
+C-T A-F B-F D-F
