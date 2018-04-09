@@ -43,3 +43,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+#输入文件
+**/*.txt

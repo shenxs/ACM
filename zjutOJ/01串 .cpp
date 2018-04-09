@@ -27,6 +27,7 @@ int main()
 	long long t,d,b,c;
 	long long sum,tem,tem2;
 	cin>>t;
+  string str;
 	while (t--)
 	{
 		cin>>d>>b>>c;
