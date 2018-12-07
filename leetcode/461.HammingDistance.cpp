@@ -16,7 +16,6 @@ public:
 
 int main(){
   Solution s;
-
   cout<<(3+5&1)<<endl;
 
 }
